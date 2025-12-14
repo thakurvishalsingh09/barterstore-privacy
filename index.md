@@ -35,10 +35,37 @@ We use industry-standard security practices, but no system is completely secure.
 Users can edit or delete posts, control app permissions, or request account deletion.
 
 ## 7. Children’s Privacy
-BarterStore is intended for users **18 years and above**.
+BarterStore is intended for users **13 years and above**.
 
 ## 8. Policy Updates
 This policy may be updated from time to time.
 
 ## 9. Contact Us
 Email: support@barterstore.in
+
+
+---
+
+## Account and Data Deletion
+
+BarterStore respects user privacy and provides a clear process for account and data deletion.
+
+### How to request account deletion
+Users can request deletion of their BarterStore account and associated data by emailing us at:
+
+**Email:** support@barterstore.in  
+**Subject:** Account Deletion Request – BarterStore
+
+### Data that will be deleted
+Upon verification, the following data will be permanently deleted:
+- User account details (email, phone number, profile)
+- Posts and listings created by the user
+- Chat messages and conversations
+- Uploaded images and related content
+
+### Data retention period
+Data will be deleted within **7–30 days** of request, unless retention is required by law.
+
+### Contact
+For questions related to data deletion, 
+contact: support@barterstore.in
